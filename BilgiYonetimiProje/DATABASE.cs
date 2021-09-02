@@ -7,6 +7,7 @@ using System.Windows.Documents;
 
 namespace BilgiYonetimiProje
 {
+    //Github bağlantısı
     class DATABASE
     {
         static BilgiYonetimiProjeEntities2 entity = new BilgiYonetimiProjeEntities2();
