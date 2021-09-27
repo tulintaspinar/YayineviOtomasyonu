@@ -1,2 +1,3 @@
 # YayineviOtomasyonu
-C# ile Basit Yayinevi Otomasyonu
+C# ile Yayinevi Otomasyonu
+YBS bölümü Bilgi Yönetimi dersi dönem ödevi
